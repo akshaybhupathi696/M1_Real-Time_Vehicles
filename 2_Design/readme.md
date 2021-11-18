@@ -1,1 +1,1 @@
-All the required diagrams are t be pasted here
+All the required diagrams are to be pasted here
