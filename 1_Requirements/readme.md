@@ -29,15 +29,16 @@ WHY : For being healthy.
 HOW : Operates by modifying the temperature.
 
 ## HIGH LEVEL REQIUREMENTS:
-
-
-
-
-
-
+| ID | DESCRIPTION | STATUS(IMPLEMENTED/FAILURE) |
+| :--: | :---: | :----: |
+| HLR1 | Temperature Sensor | Implemented |
+| HLR2 | Heat Generation | Implemented |
+| HLR3 | Display | Implemented |
+| HLR4 | Microcontroller | Implemented |
 
 ## LOW LEVEL REQUIREMENTS:
-
-
-
-
+| ID | DESCRIPTION | STATUS(IMPLEMENTED/FAILURE) |
+| :--: | :---: | :----: |
+| LLR1 | Thermoelectric | Implemented |
+| LLR2 | ATmega328 | Implemented |
+| LLR3 | Code block with AVR GCC compiler | Implemented |
