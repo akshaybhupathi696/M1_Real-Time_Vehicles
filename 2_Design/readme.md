@@ -1,4 +1,8 @@
 ARCHITECTURE:
-<div id="C81F4099FA3D226AB3B612F5B9718536189_72449"><div id="C81F4099FA3D226AB3B612F5B9718536189_72449_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=C81F4099FA3D226AB3B612F5B9718536189" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/C81F4099FA3D226AB3B612F5B9718536189/preview2.png"></a></div></div>
+
+![image](https://user-images.githubusercontent.com/62794654/142763723-38dfa658-bef5-42d4-85b5-69339646f8ff.png)
+
 
 BLOCK DIAGRAM:
+
+![image](https://user-images.githubusercontent.com/62794654/142763329-686e19ba-3d6c-4cf5-a82e-d18595a94492.png)
