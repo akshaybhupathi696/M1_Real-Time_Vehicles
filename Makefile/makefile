@@ -8,7 +8,6 @@ Source Code/Activity1.c\
 Source Code/Activity2.c\
 Source Code/Activity3.c\
 
-
 #Object copy to create hexfile
 OBJCOPY = avr-objcopy.exe
 
@@ -44,6 +43,8 @@ else #All configurations for Linux OS
    endif
 endif
 
+
+
 # Command to make to consider these names as targets and not as file names in folder
 .PHONY:all analysis clean doc
 
@@ -68,7 +69,7 @@ doc:
 	make -C documentation
 
 clean:
-	# Remove all the build files and generated document files
+	# /*Remove all the build files and generated document files*/
 	$(RM) $(call FixPath,$(BUILD_DIR)/*)
 	make -C documentation clean
 	rmdir $(BUILD_DIR)
