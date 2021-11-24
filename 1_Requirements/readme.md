@@ -1,6 +1,4 @@
-
-
-## Features:
+## Features
 It is compitable.
 Driver or passenger has the access to modify the temperature in the vehicle.
 This system is reliable.
@@ -8,7 +6,7 @@ It sense whether the person is existed or not.
 Modular Approach.
 Low cost and robust system.
 
-## SWOT ANALYSIS:
+## SWOT ANALYSIS
 
 ## _Strength_
 Low costUser friendly.
@@ -23,14 +21,14 @@ It can be implemented by replacing heater by air conditioners so that it will be
 ## _Threats_
 Not suitable for average temperature environment.
 
-## 4W's and 1H's:
+## 4W's and 1H's
 WHAT : Passanger Seat and Heat Monitoring System.
 WHERE : Used in automotive industry.
 WHEN : At low temperature.
 WHY : For being healthy.
 HOW : Operates by modifying the temperature.
 
-## HIGH LEVEL REQIUREMENTS:
+## HIGH LEVEL REQIUREMENTS
 | ID | DESCRIPTION | STATUS(IMPLEMENTED/FAILURE) |
 | :--: | :---: | :----: |
 | HLR1 | Temperature Sensor | Implemented |
@@ -38,7 +36,7 @@ HOW : Operates by modifying the temperature.
 | HLR3 | Display | Implemented |
 | HLR4 | Microcontroller | Implemented |
 
-## LOW LEVEL REQUIREMENTS:
+## LOW LEVEL REQUIREMENTS
 | ID | DESCRIPTION | STATUS(IMPLEMENTED/FAILURE) |
 | :--: | :---: | :----: |
 | LLR1 | Thermoelectric | Implemented |
