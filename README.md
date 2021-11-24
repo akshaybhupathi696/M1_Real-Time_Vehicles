@@ -7,4 +7,5 @@ Based on the controller it will set the temperature and it is capable of maintai
  And whatever the heat is generated that point it will be displaying on displays like (Liquid crystal display (LCD),
 Light emitting diode (LED) backlit LCD, Thin film Transistors (TFT) LCD).
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c36a5f825a1a4b15b437acb5ff5b96a5)](https://app.codacy.com/gh/akshaybhupathi696/M1_Real-Time_Vehicles?utm_source=github.com&utm_medium=referral&utm_content=akshaybhupathi696/M1_Real-Time_Vehicles&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/19f5c40e989545d694df92c33b878337)](https://www.codacy.com/gh/akshaybhupathi696/M1_Real-Time_Vehicles/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akshaybhupathi696/M1_Real-Time_Vehicles&amp;utm_campaign=Badge_Grade)
